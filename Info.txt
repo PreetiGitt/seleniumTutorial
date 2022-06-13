@@ -1,0 +1,4 @@
+HeadlessBrowser testing:
+-- UI doesn't appear, no browser window opens up, does the testing in background.
+-- useful in case of regression testing with a new build and in case of cross browser testing as multiple
+ browser GUI can take a lot of space.
